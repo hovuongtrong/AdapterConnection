@@ -1,0 +1,1 @@
+Make adapter for database connection
